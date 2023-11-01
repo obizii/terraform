@@ -1,3 +1,6 @@
+# Before you begin this Terraform project, make sure you have your Linode API key 
+# and you have created a terraform.tfvars with the correct variables
+
 # Configure the Linode provider
 
 terraform {
