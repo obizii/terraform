@@ -4,3 +4,4 @@ terraform.tfvars
 terraform.tfstate
 terraform.tfstate.backup
 /.terraform
+/linode/lesson_1/.terraform
