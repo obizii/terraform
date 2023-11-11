@@ -39,3 +39,9 @@ resource "vsphere_virtual_machine" "vm" {
     size  = 20
   }
 }
+
+
+# variables
+variable "vsphere_user" {}
+variable "vsphere_password" {}
+variable "vsphere_server" {}
