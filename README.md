@@ -6,6 +6,7 @@ There are a few different folders listed within this repository for different en
 
  - AWS
  - Azure
+ - Cloudflare
  - GCP
  - Linode
  - VMware
